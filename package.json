@@ -1,0 +1,11 @@
+{
+  "name": "napsternet-vpn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VLESS + REALITY installer for compatible Ubuntu VPS",
+  "scripts": {
+    "install": "bash scripts/install.sh",
+    "uninstall": "bash scripts/uninstall.sh"
+  },
+  "dependencies": {}
+}

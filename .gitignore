@@ -1,0 +1,8 @@
+# Never commit generated server secrets or client links
+.env
+*.env
+client-link.txt
+napsternet-vpn-client.txt
+config.json
+*.key
+*.pem
